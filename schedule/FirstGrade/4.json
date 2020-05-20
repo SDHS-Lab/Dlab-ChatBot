@@ -1,0 +1,182 @@
+{
+  "monday": [
+    {
+      "name": "수학",
+      "period": "1",
+      "ClassRoom": "207"
+    },
+    {
+      "name": "보건",
+      "period": "2",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "과학",
+      "period": "3",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "국사",
+      "period": "4",
+      "ClassRoom": "207"
+    },
+    {
+      "name": "사회",
+      "period": "5",
+      "ClassRoom": "204"
+    },
+    {
+      "name": "프밍",
+      "period": "6",
+      "ClassRoom": "310"
+    },
+    {
+      "name": "프밍",
+      "period": "7",
+      "ClassRoom": "310"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "국어",
+      "period": "1",
+      "ClassRoom": "206"
+    },
+    {
+      "name": "음악",
+      "period": "2",
+      "ClassRoom": "402"
+    },
+    {
+      "name": "음악",
+      "period": "3",
+      "ClassRoom": "402"
+    },
+    {
+      "name": "체육",
+      "period": "4",
+      "ClassRoom": "204"
+    },
+    {
+      "name": "논술",
+      "period": "5",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "미술",
+      "period": "6",
+      "ClassRoom": "202"
+    },
+    {
+      "name": "미술",
+      "period": "7",
+      "ClassRoom": "202"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "과학",
+      "period": "1",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "과학",
+      "period": "2",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "web",
+      "period": "3",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "영어A",
+      "period": "4",
+      "ClassRoom": "209"
+    },
+    {
+      "name": "국사",
+      "period": "5",
+      "ClassRoom": "207"
+    },
+    {
+      "name": "음악",
+      "period": "6",
+      "ClassRoom": "211"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "국어",
+      "period": "1",
+      "ClassRoom": "204"
+    },
+    {
+      "name": "영어A",
+      "period": "2",
+      "ClassRoom": "209"
+    },
+    {
+      "name": "종교",
+      "period": "3",
+      "ClassRoom": "401"
+    },
+    {
+      "name": "논술",
+      "period": "4",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "웹",
+      "period": "5",
+      "ClassRoom": "308"
+    },
+    {
+      "name": "웹",
+      "period": "6",
+      "ClassRoom": "308"
+    },
+    {
+      "name": "사회",
+      "period": "7",
+      "ClassRoom": "206"
+    }
+  ],
+  "friday": [
+    {
+      "name": "프밍",
+      "period": "1",
+      "ClassRoom": "310"
+    },
+    {
+      "name": "프밍",
+      "period": "2",
+      "ClassRoom": "310"
+    },
+    {
+      "name": "web",
+      "period": "3",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "web",
+      "period": "4",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "수학",
+      "period": "5",
+      "ClassRoom": "207"
+    },
+    {
+      "name": "사회",
+      "period": "6",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "국사",
+      "period": "7",
+      "ClassRoom": "207"
+    }
+  ]
+}

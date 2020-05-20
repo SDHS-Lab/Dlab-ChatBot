@@ -1,0 +1,182 @@
+{
+  "monday": [
+    {
+      "name": "문화",
+      "period": "1",
+      "ClassRoom": "307"
+    },
+    {
+      "name": "수학",
+      "period": "2",
+      "ClassRoom": "206"
+    },
+    {
+      "name": "수학",
+      "period": "3",
+      "ClassRoom": "206"
+    },
+    {
+      "name": "국어",
+      "period": "4",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "종교",
+      "period": "5",
+      "ClassRoom": "401"
+    },
+    {
+      "name": "영어C",
+      "period": "6",
+      "ClassRoom": "210"
+    },
+    {
+      "name": "영어A",
+      "period": "7",
+      "ClassRoom": "209"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "애니",
+      "period": "1",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "애니",
+      "period": "2",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "애니",
+      "period": "3",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "애니",
+      "period": "4",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "애니",
+      "period": "5",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "영어A",
+      "period": "6",
+      "ClassRoom": "209"
+    },
+    {
+      "name": "국어",
+      "period": "7",
+      "ClassRoom": "203"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "애니",
+      "period": "1",
+      "ClassRoom": "306"
+    },
+    {
+      "name": "애니",
+      "period": "2",
+      "ClassRoom": "306"
+    },
+    {
+      "name": "애니",
+      "period": "3",
+      "ClassRoom": "306"
+    },
+    {
+      "name": "창체",
+      "period": "4",
+      "ClassRoom": "0"
+    },
+    {
+      "name": "창체",
+      "period": "5",
+      "ClassRoom": "0"
+    },
+    {
+      "name": "창체",
+      "period": "6",
+      "ClassRoom": "0"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "애니",
+      "period": "1",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "애니",
+      "period": "2",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "애니",
+      "period": "3",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "물리",
+      "period": "4",
+      "ClassRoom": "204"
+    },
+    {
+      "name": "물리",
+      "period": "5",
+      "ClassRoom": "204"
+    },
+    {
+      "name": "음악",
+      "period": "6",
+      "ClassRoom": "211"
+    },
+    {
+      "name": "음악",
+      "period": "7",
+      "ClassRoom": "211"
+    }
+  ],
+  "friday": [
+    {
+      "name": "애니",
+      "period": "1",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "애니",
+      "period": "2",
+      "ClassRoom": "306"
+    },
+    {
+      "name": "애니",
+      "period": "3",
+      "ClassRoom": "306"
+    },
+    {
+      "name": "애니",
+      "period": "4",
+      "ClassRoom": "306"
+    },
+    {
+      "name": "운동",
+      "period": "5",
+      "ClassRoom": "307"
+    },
+    {
+      "name": "운동",
+      "period": "6",
+      "ClassRoom": "307"
+    },
+    {
+      "name": "운동",
+      "period": "7",
+      "ClassRoom": "307"
+    }
+  ]
+}

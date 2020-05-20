@@ -1,0 +1,182 @@
+{
+  "monday": [
+    {
+      "name": "미술",
+      "period": "1",
+      "ClassRoom": "202"
+    },
+    {
+      "name": "컴그",
+      "period": "2",
+      "ClassRoom": "202"
+    },
+    {
+      "name": "컴그",
+      "period": "3",
+      "ClassRoom": "202"
+    },
+    {
+      "name": "국어",
+      "period": "4",
+      "ClassRoom": "204"
+    },
+    {
+      "name": "수학",
+      "period": "5",
+      "ClassRoom": "207"
+    },
+    {
+      "name": "과학",
+      "period": "6",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "과학",
+      "period": "7",
+      "ClassRoom": "B101"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "프밍",
+      "period": "1",
+      "ClassRoom": "308"
+    },
+    {
+      "name": "프밍",
+      "period": "2",
+      "ClassRoom": "308"
+    },
+    {
+      "name": "사회",
+      "period": "3",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "지식",
+      "period": "4",
+      "ClassRoom": "302"
+    },
+    {
+      "name": "종교",
+      "period": "5",
+      "ClassRoom": "401"
+    },
+    {
+      "name": "체육",
+      "period": "6",
+      "ClassRoom": "206"
+    },
+    {
+      "name": "국사",
+      "period": "7",
+      "ClassRoom": "206"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "음악",
+      "period": "1",
+      "ClassRoom": "402"
+    },
+    {
+      "name": "음악",
+      "period": "2",
+      "ClassRoom": "402"
+    },
+    {
+      "name": "영어A",
+      "period": "3",
+      "ClassRoom": "209"
+    },
+    {
+      "name": "음악",
+      "period": "4",
+      "ClassRoom": "211"
+    },
+    {
+      "name": "사회",
+      "period": "5",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "국사",
+      "period": "6",
+      "ClassRoom": "207"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "프밍",
+      "period": "1",
+      "ClassRoom": "308"
+    },
+    {
+      "name": "프밍",
+      "period": "2",
+      "ClassRoom": "308"
+    },
+    {
+      "name": "수학",
+      "period": "3",
+      "ClassRoom": "207"
+    },
+    {
+      "name": "컴그",
+      "period": "4",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "컴그",
+      "period": "5",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "컴그",
+      "period": "6",
+      "ClassRoom": "306"
+    },
+    {
+      "name": "과학",
+      "period": "7",
+      "ClassRoom": "B101"
+    }
+  ],
+  "friday": [
+    {
+      "name": "국사",
+      "period": "1",
+      "ClassRoom": "204"
+    },
+    {
+      "name": "논술",
+      "period": "2",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "논술",
+      "period": "3",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "보건",
+      "period": "4",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "국어",
+      "period": "5",
+      "ClassRoom": "204"
+    },
+    {
+      "name": "영어A",
+      "period": "6",
+      "ClassRoom": "209"
+    },
+    {
+      "name": "사회",
+      "period": "7",
+      "ClassRoom": "B101"
+    }
+  ]
+}

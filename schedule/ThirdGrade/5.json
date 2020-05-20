@@ -1,0 +1,182 @@
+{
+  "monday": [
+    {
+      "name": "GUI",
+      "period": "1",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "GUI",
+      "period": "2",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "GUI",
+      "period": "3",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "4",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "5",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "6",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "7",
+      "ClassRoom": "309"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "특화",
+      "period": "1",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "2",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "3",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "GUI",
+      "period": "4",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "GUI",
+      "period": "5",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "6",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "7",
+      "ClassRoom": "309"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "특화",
+      "period": "1",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "2",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "수상",
+      "period": "3",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "창체",
+      "period": "4",
+      "ClassRoom": "0"
+    },
+    {
+      "name": "창체",
+      "period": "5",
+      "ClassRoom": "0"
+    },
+    {
+      "name": "창체",
+      "period": "6",
+      "ClassRoom": "0"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "특화",
+      "period": "1",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "2",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "3",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "4",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "직업",
+      "period": "5",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "직업",
+      "period": "6",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "UI",
+      "period": "7",
+      "ClassRoom": "309"
+    }
+  ],
+  "friday": [
+    {
+      "name": "특화",
+      "period": "1",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "2",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "3",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "4",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "5",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "특화",
+      "period": "6",
+      "ClassRoom": "309"
+    },
+    {
+      "name": "종교",
+      "period": "7",
+      "ClassRoom": "401"
+    }
+  ]
+}

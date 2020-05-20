@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="13.125.72.93" id="cb58ddf7-7b95-4248-a940-cf27a99477bf" keyPath="$USER_HOME$/Desktop/Project/Bus03/BusKeyPare.pem" port="22" customName="Digitech_Lab" nameFormat="CUSTOM" username="ec2-user" />
+    </configs>
+  </component>
+</project>

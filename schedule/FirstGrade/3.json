@@ -1,0 +1,182 @@
+{
+  "monday": [
+    {
+      "name": "web",
+      "period": "1",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "자바",
+      "period": "2",
+      "ClassRoom": "310"
+    },
+    {
+      "name": "자바",
+      "period": "3",
+      "ClassRoom": "310"
+    },
+    {
+      "name": "과학",
+      "period": "4",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "과학",
+      "period": "5",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "국어",
+      "period": "6",
+      "ClassRoom": "207"
+    },
+    {
+      "name": "수학",
+      "period": "7",
+      "ClassRoom": "207"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "국사",
+      "period": "1",
+      "ClassRoom": "207"
+    },
+    {
+      "name": "체육",
+      "period": "2",
+      "ClassRoom": "211"
+    },
+    {
+      "name": "보건",
+      "period": "3",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "수학",
+      "period": "4",
+      "ClassRoom": "207"
+    },
+    {
+      "name": "사회",
+      "period": "5",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "web",
+      "period": "6",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "web",
+      "period": "7",
+      "ClassRoom": "B105"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "자바",
+      "period": "1",
+      "ClassRoom": "310"
+    },
+    {
+      "name": "자바",
+      "period": "2",
+      "ClassRoom": "310"
+    },
+    {
+      "name": "과학",
+      "period": "3",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "국사",
+      "period": "4",
+      "ClassRoom": "207"
+    },
+    {
+      "name": "음악",
+      "period": "5",
+      "ClassRoom": "211"
+    },
+    {
+      "name": "사회",
+      "period": "6",
+      "ClassRoom": "B101"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "사회",
+      "period": "1",
+      "ClassRoom": "B101"
+    },
+    {
+      "name": "국사",
+      "period": "2",
+      "ClassRoom": "204"
+    },
+    {
+      "name": "웹",
+      "period": "3",
+      "ClassRoom": "308"
+    },
+    {
+      "name": "웹",
+      "period": "4",
+      "ClassRoom": "308"
+    },
+    {
+      "name": "국어",
+      "period": "5",
+      "ClassRoom": "207"
+    },
+    {
+      "name": "영어A",
+      "period": "6",
+      "ClassRoom": "209"
+    },
+    {
+      "name": "논술",
+      "period": "7",
+      "ClassRoom": "310"
+    }
+  ],
+  "friday": [
+    {
+      "name": "음악",
+      "period": "1",
+      "ClassRoom": "402"
+    },
+    {
+      "name": "음악",
+      "period": "2",
+      "ClassRoom": "402"
+    },
+    {
+      "name": "영어A",
+      "period": "3",
+      "ClassRoom": "209"
+    },
+    {
+      "name": "종교",
+      "period": "4",
+      "ClassRoom": "401"
+    },
+    {
+      "name": "논술",
+      "period": "5",
+      "ClassRoom": "310"
+    },
+    {
+      "name": "미술",
+      "period": "6",
+      "ClassRoom": "202"
+    },
+    {
+      "name": "미술",
+      "period": "7",
+      "ClassRoom": "202"
+    }
+  ]
+}

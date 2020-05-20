@@ -1,0 +1,182 @@
+{
+  "monday": [
+    {
+      "name": "영어A",
+      "period": "1",
+      "ClassRoom": "209"
+    },
+    {
+      "name": "수학",
+      "period": "2",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "수학",
+      "period": "3",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "종교",
+      "period": "4",
+      "ClassRoom": "401"
+    },
+    {
+      "name": "물리",
+      "period": "5",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "국어",
+      "period": "6",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "국어",
+      "period": "7",
+      "ClassRoom": "203"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "제작",
+      "period": "1",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "제작",
+      "period": "2",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "제작",
+      "period": "3",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "제작",
+      "period": "4",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "제작",
+      "period": "5",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "음악",
+      "period": "6",
+      "ClassRoom": "402"
+    },
+    {
+      "name": "음악",
+      "period": "7",
+      "ClassRoom": "402"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "제작",
+      "period": "1",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "제작",
+      "period": "2",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "제작",
+      "period": "3",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "창체",
+      "period": "4",
+      "ClassRoom": "0"
+    },
+    {
+      "name": "창체",
+      "period": "5",
+      "ClassRoom": "0"
+    },
+    {
+      "name": "창체",
+      "period": "6",
+      "ClassRoom": "0"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "제작",
+      "period": "1",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "제작",
+      "period": "2",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "제작",
+      "period": "3",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "문화",
+      "period": "4",
+      "ClassRoom": "305"
+    },
+    {
+      "name": "운동",
+      "period": "5",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "운동",
+      "period": "6",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "운동",
+      "period": "7",
+      "ClassRoom": "406"
+    }
+  ],
+  "friday": [
+    {
+      "name": "제작",
+      "period": "1",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "제작",
+      "period": "2",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "제작",
+      "period": "3",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "제작",
+      "period": "4",
+      "ClassRoom": "B105"
+    },
+    {
+      "name": "영어A",
+      "period": "5",
+      "ClassRoom": "209"
+    },
+    {
+      "name": "물리",
+      "period": "6",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "영어C",
+      "period": "7",
+      "ClassRoom": "210"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "monday": [
+    {
+      "name": "통신",
+      "period": "1",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "통신",
+      "period": "2",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "통신",
+      "period": "3",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "수학",
+      "period": "4",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "통신",
+      "period": "5",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "통신",
+      "period": "6",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "수상",
+      "period": "7",
+      "ClassRoom": "406"
+    }
+  ],
+  "tuesday": [
+    {
+      "name": "창업",
+      "period": "1",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "창업",
+      "period": "2",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "사무(실습)",
+      "period": "3",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "수학",
+      "period": "4",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "수학",
+      "period": "5",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "통신",
+      "period": "6",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "통신",
+      "period": "7",
+      "ClassRoom": "406"
+    }
+  ],
+  "wednesday": [
+    {
+      "name": "사무(실습)",
+      "period": "1",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "사무(실습)",
+      "period": "2",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "사무(실습)",
+      "period": "3",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "창체",
+      "period": "4",
+      "ClassRoom": "0"
+    },
+    {
+      "name": "창체",
+      "period": "5",
+      "ClassRoom": "0"
+    },
+    {
+      "name": "창체",
+      "period": "6",
+      "ClassRoom": "0"
+    }
+  ],
+  "thursday": [
+    {
+      "name": "통신",
+      "period": "1",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "통신",
+      "period": "2",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "통신",
+      "period": "3",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "종교",
+      "period": "4",
+      "ClassRoom": "401"
+    },
+    {
+      "name": "영어",
+      "period": "5",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "영어",
+      "period": "6",
+      "ClassRoom": "203"
+    },
+    {
+      "name": "수학",
+      "period": "7",
+      "ClassRoom": "203"
+    }
+  ],
+  "friday": [
+    {
+      "name": "현장",
+      "period": "1",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "현장",
+      "period": "2",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "현장",
+      "period": "3",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "현장",
+      "period": "4",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "현장",
+      "period": "5",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "현장",
+      "period": "6",
+      "ClassRoom": "406"
+    },
+    {
+      "name": "현장",
+      "period": "7",
+      "ClassRoom": "406"
+    }
+  ]
+}
