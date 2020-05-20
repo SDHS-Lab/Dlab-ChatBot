@@ -1,2 +1,27 @@
-# Dlab-ChatBot
-Dlab Chatbot repository
+
+Dlab - Chatbot
+---
+
+___현재 구버전이 업데이트 된 상태입니다!!!___
+
+
+---  
+
+
+## 프로젝트 소개
+현재 운영중인 디지텍 연구소 챗봇 프로젝트입니다.  
+사용하는 라이브러리 목록입니다.
+
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node-fetch": "^2.3.0",
+    "node-school-kr": "^2.1.0",
+    "nodemon": "^2.0.2"
+
+
+
+
+## 업데이트 예정
+- Babel 분리를 위한 ES5 다운그레이드
+- API 변경
+
